@@ -4,9 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-jupyter = "*"
 lab = "*"
 tqdm = "*"
+jupyter = "*"
+matplotlib = "*"
+numpy = "*"
+tensorflow = "*"
+pandas = "*"
 
 [dev-packages]
 
