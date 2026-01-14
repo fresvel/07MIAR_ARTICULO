@@ -4,6 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+jupyter = "*"
+lab = "*"
+numpy = "*"
+matplotlib = "*"
+tensorflow = "*"
+scikit-image = "*"
+pillow = "*"
 
 [dev-packages]
 
